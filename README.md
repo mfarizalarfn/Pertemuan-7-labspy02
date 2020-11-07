@@ -10,7 +10,7 @@ tersebut tampilkan bilangan terbesarnya. Gunakan statement if. Menggunakan Bahas
 
 * Pada repository ini saya akan menjelaskan langkah atau algoritmanya serta Flowchart yang telah saya buat. file flowchart bisa klik link berikut <br>
 
-Berikut source code yang saya tulis untuk menjadikan aplikasi tersebut.<br>
+Berikut source code yang saya tulis untuk membuat aplikasi tersebut.<br>
 ``` python
 #membuat program module 2
 print("Masukkan Pilihan Angka ke-1 : ")
@@ -29,3 +29,8 @@ elif (xangka1 == xangka2) and (xangka1 == xangka3) and (xangka2 == xangka3):
 else:
     print(f"Bilangan ketiga ({xangka3}) lebih besar dari Bilangan pertama dan kedua")
 
+```
+<br>
+Hasil running dari source code diatas adalah seperti gambar dibawah<br>
+
+![hasil running](pict/running.PNG)
