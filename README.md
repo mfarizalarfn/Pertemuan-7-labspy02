@@ -33,7 +33,7 @@ else:
 
 Berikut langkah-langkahnya : <br><br>
 
-* Langkah pertama yaitu saya akan membuat sebuah inputan tersebut untuk menentukan angka terbesar. Yaitu dengan mengetikkan syntax berikut : <br>
+* Langkah pertama yaitu saya akan membuat sebuah inputan tersebut untuk menentukan angka terbesar. Yaitu dengan mengetik syntax berikut : <br>
 
 ```python
 print("Masukkan Pilihan Angka ke-1 : ")
@@ -60,7 +60,7 @@ Setelah melakukan pengecekan apakah Angka-1 sebegai bilangan terbesar atau tidak
 ```python
 elif (xangka1 == xangka2) and (xangka1 == xangka3) and (xangka2 == xangka3):
 ```
-selanjutnya kita akan menuliskan perintah/syntax untuk menampilkan hasilnya.
+selanjutnya kita akan mengetik perintah/syntax untuk menampilkan hasilnya.
 ```python
 print(f"Bilangan Pertama ({xangka1}) lebih besar dari Bilangan kedua dan ketiga")
 ```
@@ -77,6 +77,7 @@ else:
 Berikut hasil running dari source code diatas adalah seperti gambar dibawah<br>
 
 ![hasil running](pict/running.PNG)<br>
+![hasil running](pict/sama-besar.PNG)<br>
 <br>
 
 ### Demikian penjelasan dari saya mengenai Tugas Bahasa Pemrograman Pertemuan-7 Module 2 yang diperintahkan oleh Dosen, Terima kasih...
