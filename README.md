@@ -10,7 +10,7 @@ Kelas : TI.20.B.1<br>
 Pada halaman ini (Tugas Pertemuan-7-Module Praktikum 2) Dosen memberi tugas yaitu untuk membuat program sederhana dengan input tiga buah bilangan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya. Gunakan statement if. Menggunakan Bahasa Pemrograman Python<br>
 
-* Pada repository ini saya akan uraikan langkah atau algoritmanya serta Flowchart yang telah saya buat. file flowchart bisa dilihat pada folder pict diatas <br>
+* Pada repository ini saya akan uraikan langkah atau algoritmanya serta Flowchart yang telah saya buat. file flowchart bisa dilihat pada folder pict diatas [gambar flowchart](pict/flowchart.PNG) <br>
 
 Berikut source code yang saya tulis untuk membuat aplikasi tersebut.<br>
 ``` python
