@@ -56,7 +56,7 @@ Syntax diatas berfungsi untuk melakukan pengecekan inputan pada **Angka ke-1**, 
 elif (xangka2 > xangka1) and (xangka2 > xangka3):
 ```
 Pada syntax diatas melakukan pengecekan dengan 2 perbandingan angka terbesar yaitu *Apakah Angka ke-1 lebih besar dari Angka ke-2* dan *Apakah Angka ke-1 lebih besar dari Angka ke-3*. Dengan menggunakan perintah **AND**
-Setelah melakukan pengecekan apakah Angka-1 sebegai bilangan terbesar atau tidak, sedangkan syntax dibawah adalah untuk mengetahui bahwa bilangan yang kita inputkan sama besarnya.
+Setelah melakukan pengecekan apakah Angka-1 sebegai bilangan terbesar atau tidak, sedangkan syntax dibawah adalah untuk mengetahui bahwa bilangan yang kita inputkan sama besar.
 ```python
 elif (xangka1 == xangka2) and (xangka1 == xangka3) and (xangka2 == xangka3):
 ```
@@ -77,6 +77,7 @@ else:
 Berikut hasil running dari source code diatas adalah seperti gambar dibawah<br>
 
 ![hasil running](pict/running.PNG)<br>
+Hasil jika bilangan yang diinputkan sama besar<br>
 ![hasil running](pict/sama-besar.PNG)<br>
 <br>
 
