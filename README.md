@@ -30,9 +30,6 @@ else:
     print(f"Bilangan ketiga ({xangka3}) lebih besar dari Bilangan pertama dan kedua")
 ```
 <br>
-Hasil running dari source code diatas adalah seperti gambar dibawah<br>
-
-![hasil running](pict/running.PNG)<br>
 
 Berikut langkah-langkahnya : <br><br>
 
@@ -77,3 +74,9 @@ print(f"Bilangan Pertama ({xangka1}) lebih besar dari Bilangan kedua dan ketiga"
 else:
     print(f"Bilangan ketiga ({xangka3}) lebih besar dari Bilangan pertama dan kedua")
 ```
+Berikut hasil running dari source code diatas adalah seperti gambar dibawah<br>
+
+![hasil running](pict/running.PNG)<br>
+<br>
+
+### Demikian penjelasan dari saya mengenai Tugas Bahasa Pemrograman Pertemuan-7 Module 2 yang diperintahkan oleh Dosen, Terima kasih...
