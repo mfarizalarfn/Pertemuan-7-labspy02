@@ -1,4 +1,4 @@
-#membuat programe module 2
+#membuat program module 2
 print("Masukkan Pilihan Angka ke-1 : ")
 xangka1 = int(input())
 print("Masukkan Pilihan Angka ke-2 : ")
